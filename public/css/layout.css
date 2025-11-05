@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -109,7 +109,6 @@ header .scrolldown a {
    width: 42px;
    font-size: 42px;
    line-height: 42px;
-   color: #fff;
    border-radius: 100%;
 
    -webkit-transition: all .3s ease-in-out;
@@ -360,77 +359,103 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: node 2s ease;
    -webkit-animation: node 2s ease;
 }
-.mongo {
+.nextjs {
    width: 20%;
-   -moz-animation: mongo 2s ease;
-   -webkit-animation: mongo 2s ease;
+   -moz-animation: node 2s ease;
+   -webkit-animation: node 2s ease;
+}
+.typescript {
+   width: 20%;
+   -moz-animation: node 2s ease;
+   -webkit-animation: node 2s ease;
+}
+.tailwind {
+   width: 20%;
+   -moz-animation: node 2s ease;
+   -webkit-animation: node 2s ease;
 }
 
 @-moz-keyframes hmtl5 {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes react {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes wordpress {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 30%;  }
 }
 @-moz-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 30%;  }
 }
 @-moz-keyframes node {
    0%   { width: 0px;  }
    100% { width: 50%;  }
 }
-@-moz-keyframes mongo {
+@-moz-keyframes nextjs {
    0%   { width: 0px;  }
-   100% { width: 50%;  }
+   100% { width: 70%;  }
+}
+@-moz-keyframes typescript {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+}
+@-moz-keyframes tailwind {
+   0%   { width: 0px;  }
+   100% { width: 80%;  }
 }
 
 @-webkit-keyframes hmtl5 {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes react {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes wordpress {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 30%;  }
 }
 @-webkit-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 30%;  }
 }
 @-webkit-keyframes node {
    0%   { width: 0px;  }
    100% { width: 50%;  }
 }
-@-webkit-keyframes mongo {
+@-webkit-keyframes nextjs {
    0%   { width: 0px;  }
-   100% { width: 50%;  }
- }
+   100% { width: 70%;  }
+}
+@-webkit-keyframes typescript {
+0%   { width: 0px;  }
+100% { width: 60%;  }
+}
+@-webkit-keyframes tailwind {
+0%   { width: 0px;  }
+100% { width: 80%;  }
+}
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
@@ -768,7 +793,6 @@ call-to-action .button {
 /* Slider Styles */
 .slides { zoom: 1; }
 .slides > li {
-   /*margin-right: 5px; */
    overflow: hidden;
 }
 

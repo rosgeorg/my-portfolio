@@ -18,31 +18,31 @@ export default class resume extends Component {
                                 <h3>Dev.F</h3>
                                 <p className="info">
                                     Web Development White, Red, and Black Belt / Master in Coding <span>•</span>{" "}
-                                    <em className="date">January 2020 - Present Date</em>
+                                    <em className="date">January 2020 - January 2021</em>
                                 </p>
-                                <div className = 'newspaper'>
-                                    · HTML <br/>
-                                    · CSS <br/>
-                                    · Bootstrap <br/>
-                                    · Programming Fundamentals <br/>
-                                    · Data structures <br/>
-                                    · Basic Algorithmics <br/>
-                                    · ECMAscript 6 <br/>
-                                    · OOP <br/>
-                                    · Advanced Javascript <br/>
-                                    · Server-Side Programming <br/>
-                                    · Introduction to Databases <br/>
-                                    · Client-Side Programming <br/>
-                                    · MongoDB <br/>
-                                    · REST API <br/>
-                                    · Javascript Frameworks <br/>
-                                    · File Structure <br/>
-                                    · Deployment <br/>
-                                    · Design Thinking <br/>
-                                    · Figma <br/>
-                                    · Atomic Design <br/>
-                                </div> 
-                                <br/>
+                                <div className='newspaper'>
+                                    · HTML <br />
+                                    · CSS <br />
+                                    · Bootstrap <br />
+                                    · Programming Fundamentals <br />
+                                    · Data structures <br />
+                                    · Basic Algorithmics <br />
+                                    · ECMAscript 6 <br />
+                                    · OOP <br />
+                                    · Advanced Javascript <br />
+                                    · Server-Side Programming <br />
+                                    · Introduction to Databases <br />
+                                    · Client-Side Programming <br />
+                                    · MongoDB <br />
+                                    · REST API <br />
+                                    · Javascript Frameworks <br />
+                                    · File Structure <br />
+                                    · Deployment <br />
+                                    · Design Thinking <br />
+                                    · Figma <br />
+                                    · Atomic Design <br />
+                                </div>
+                                <br />
                             </div>
                         </div>
                         {/* item end */}
@@ -55,7 +55,7 @@ export default class resume extends Component {
                                 </p>
                                 <p>
                                     Embedded Software, Microcontrollers, Microprocessors, Robotics and
-                                    Home Automation 
+                                    Home Automation
                                 </p>
                             </div>
                         </div>
@@ -75,84 +75,37 @@ export default class resume extends Component {
                     <div className="nine columns main-col">
                         <div className="row item">
                             <div className="twelve columns">
-                                <h3>Independent/Freelancer</h3>
+                                <h3>Encora Inc.</h3>
                                 <p className="info">
-                                    Web Developer <span>•</span>
-                                    <em className="date">June 2020 - Present</em>
+                                    Frontend Developer <span>•</span>
+                                    <em className="date">October 2021 - Present</em>
                                 </p>
                                 <ul className="a">
-                                    <li>
-                                        Creating solutions for local business with obsolete or non existing web platforms,
-                                        migrating web sites from Wix to HTML, CSS and Javascript in order to achieve a better
-                                        functionality and speed. 
-                                    </li>
-                                    <li>
-                                        Developing Bootcamp's full stack projects using MERN stack.
-                                    </li>
+                                    <li>Developed responsive and efficient web applications using ReactJS, Next.js, TypeScript, and Redux
+                                        (RTK).</li>
+                                    <li>Helped reach 80% test coverage with Jest, Vitest, and RTL.</li>
+                                    <li>Integrated REST APIs and third-party tools, such as payment or analytics platforms.</li>
+                                    <li>Managed CI/CD pipelines using Azure DevOps.</li>
+                                    <li>Participated in code reviews, debugging, and continuous improvement.</li>
                                 </ul>
                             </div>
                         </div>
                         {/* item end */}
                         <div className="row item">
                             <div className="twelve columns">
-                                <h3>Blatt Energy</h3>
+                                <h3>Mariachi IO</h3>
                                 <p className="info">
-                                    Partner/Commercial and Project Leader <span>•</span>
-                                    <em className="date">June 2017 - December 2019</em>
-                                </p>
-                                <p>
-                                Responsible for business processes and customer service, as well as designer 
-                                and developer of custom projects to reduce electricity consumption by up to 
-                                100% and gas consumption by up to 80%.
+                                    React Developer <span>•</span>
+                                    <em className="date">October 2020 - October 2021</em>
                                 </p>
                                 <ul className="a">
-                                    <li>
-                                        Survey of customer requirements and needs through our own methodology, 
-                                        ensuring a proposal limited to specific needs.
-                                    </li>
-                                    <li>
-                                        Management of multidisciplinary teams of up to 12 people, completing 
-                                        to date more than 300 projects installed according to the corresponding 
-                                        Official Mexican Standard
-                                    </li>
+                                    <li>Contributed to a B2B e-commerce platform and back-office system with an agile team.</li>
+                                    <li>Collaborated with UI/UX designers on iterative improvements.</li>
+                                    <li>Performed manual testing, bug fixes, and component optimizations.</li>
                                 </ul>
                             </div>
                         </div>
                         {/* item end */}
-                        <div className="row item">
-                            <div className="twelve columns">
-                                <h3>Continental Automotive Guadalajara</h3>
-                                <p className="info">
-                                    Software Requirements Manager <span>•</span>
-                                    <em className="date">February 2016 - May 2017</em>
-                                </p>
-                                <p>
-                                    Responsible for the correct implementation of the requirements management 
-                                    process, as well as for documentation, analysis, monitoring, prioritization 
-                                    and approval of requirements through communication with customers and 
-                                    interested parties within the established times.
-                                </p>
-                                <ul className="a">
-                                    <li>
-                                        Design and implementation of a checklist with points of the requirements 
-                                        management process to review, reducing downtimes due to erroneous 
-                                        assignment of owners of documents in 100%
-                                    </li>
-                                    <li>
-                                        Effective communication with the systems team and customers, to solve 
-                                        problems with requirements before the deadline in 95% of cases.
-                                    </li>
-                                </ul>
-                                <p className="info">
-                                    Software Trainee <span>•</span>
-                                    <em className="date">September 2015 - January 2016</em>
-                                </p>
-                                <p>
-                                    Involved in the development of software for automotive prototypes, 
-                                    identifying requirements, coding and establishing test cases.
-                                </p>
-                            </div>
-                        </div>
                     </div>
                     {/* main-col end */}
                 </div>
@@ -166,12 +119,6 @@ export default class resume extends Component {
                         </h1>
                     </div>
                     <div className="nine columns main-col">
-                        <p>
-                            During this year I've been enrolled on some Bootcamps offered by Dev.F,
-                            and I've been focusing on the Frontend topics such as HTML, CSS, Javascript,
-                            CSS, frameworks such as Bootstrap, responsive design, as well as version control
-                            and some basics of UX/UI. 
-                        </p>
                         <div className="bars">
                             <ul className="skills">
                                 <li>
@@ -191,20 +138,28 @@ export default class resume extends Component {
                                     <em>ReactJS</em>
                                 </li>
                                 <li>
-                                    <span className="bar-expand wordpress" />
-                                    <em>Wordpress</em>
+                                    <span className="bar-expand nextjs" />
+                                    <em>NextJS</em>
                                 </li>
                                 <li>
-                                    <span className="bar-expand php" />
-                                    <em>PHP</em>
+                                    <span className="bar-expand typescript" />
+                                    <em>Typescript</em>
+                                </li>
+                                <li>
+                                    <span className="bar-expand tailwind" />
+                                    <em>Tailwind</em>
                                 </li>
                                 <li>
                                     <span className="bar-expand node" />
                                     <em>NodeJS</em>
                                 </li>
                                 <li>
-                                    <span className="bar-expand mongo" />
-                                    <em>MongoDB</em>
+                                    <span className="bar-expand wordpress" />
+                                    <em>Wordpress</em>
+                                </li>
+                                <li>
+                                    <span className="bar-expand php" />
+                                    <em>PHP</em>
                                 </li>
                             </ul>
                         </div>
