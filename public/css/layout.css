@@ -375,7 +375,7 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: node 2s ease;
 }
 
-@-moz-keyframes hmtl5 {
+@-moz-keyframes html5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
@@ -416,7 +416,7 @@ ul#nav li.current a { color: #F06000; }
    100% { width: 80%;  }
 }
 
-@-webkit-keyframes hmtl5 {
+@-webkit-keyframes html5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
