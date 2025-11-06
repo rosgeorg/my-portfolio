@@ -361,18 +361,18 @@ ul#nav li.current a { color: #F06000; }
 }
 .nextjs {
    width: 70%;
-   -moz-animation: node 2s ease;
-   -webkit-animation: node 2s ease;
+   -moz-animation: nextjs 2s ease;
+   -webkit-animation: nextjs 2s ease;
 }
 .typescript {
    width: 60%;
-   -moz-animation: node 2s ease;
-   -webkit-animation: node 2s ease;
+   -moz-animation: typescript 2s ease;
+   -webkit-animation: typescript 2s ease;
 }
 .tailwind {
    width: 80%;
-   -moz-animation: node 2s ease;
-   -webkit-animation: node 2s ease;
+   -moz-animation: tailwind 2s ease;
+   -webkit-animation: tailwind 2s ease;
 }
 
 @-moz-keyframes html5 {
@@ -449,12 +449,12 @@ ul#nav li.current a { color: #F06000; }
    100% { width: 70%;  }
 }
 @-webkit-keyframes typescript {
-0%   { width: 0px;  }
-100% { width: 60%;  }
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
 }
 @-webkit-keyframes tailwind {
-0%   { width: 0px;  }
-100% { width: 80%;  }
+   0%   { width: 0px;  }
+   100% { width: 80%;  }
 }
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
